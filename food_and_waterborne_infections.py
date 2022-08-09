@@ -54,7 +54,6 @@ def sub_type(pathology_data):
     return pathology_data
 
 
-
 def bacterial_sero_geno(pathology_data):
 
     '''
